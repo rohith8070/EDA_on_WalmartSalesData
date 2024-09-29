@@ -1,1 +1,1 @@
-# EDA_on_WalmartSalesData
+# Sales Data Analysis on Walmart
